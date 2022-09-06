@@ -49,31 +49,18 @@
   </template>
   
   <script>
-//   import HelloWorld from './components/HelloWorld.vue'
+    import card1 from './card1.vue'
   
   export default {
     name: 'App',
     components: {
-    //   HelloWorld
+      card1
     }
   }
   </script>
   
   <style>
-  /* #app {
-    font-family: Avenir, Helvetica, Arial, sans-serif;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    text-align: center;
-    color: #2c3e50;
-    margin-top: 60px; 
-  }
-  
-  .app1{
-    height:"20px" ;
-    width: "20px" ;
-    background: "blue";
-  } */
+
   .app1{
   height:"1000px" ;
   width: "100px" ;
@@ -82,7 +69,7 @@
   text-align: center;
   margin: 20px;
   padding: 50px;
-  /* align-items: center; */
+
 }
 
 .app2{
