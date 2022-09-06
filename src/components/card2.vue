@@ -20,7 +20,7 @@
     <di class="app1">
       <h1>Maputo</h1>
     
-      <img class="aa" alt="vue logo" src="./assets/a.webp"/>
+      <img class="aa" alt="vue logo" src="./assets/333.png"/>
     
       <div class="bb">
       <p> maxima = 33</p>
@@ -30,7 +30,7 @@
     <di class="app1">
       <h1>Maputo</h1>
     
-      <img class="aa" alt="vue logo" src="./assets/a.webp"/>
+      <img class="aa" alt="vue logo" src="./assets/images.png"/>
     
       <div class="bb">
       <p> maxima = 33</p>
