@@ -13,8 +13,11 @@
 
   <img class="aa" alt="vue logo" src="../assets/a.webp"/>
 
-  <p> maxima = 33</p>
-  <p> minima = 16</p>
+  
+  <div class="bb">
+      <p> maxima = 33</p>
+      <p> minima = 16</p>
+    </div>
 </div>
 
 <div class="app2" >
@@ -23,8 +26,11 @@
   <!-- <img class="aa" alt="Vue logo" src="./assets/a.webp"/> -->
   <img class="aa" alt="vue logo" src="../assets/a.webp"/>
 
-  <p> maxima = 33</p>
-  <p> minima = 16</p>
+ 
+  <div class="bb">
+      <p> maxima = 33</p>
+      <p> minima = 16</p>
+    </div>
 </div>
 
 <div class="app2" >
@@ -32,8 +38,11 @@
 
   <img class="aa" alt="vue logo" src="../assets/a.webp"/>
 
-  <p> maxima = 33</p>
-  <p> minima = 16</p>
+ 
+  <div class="bb">
+      <p> maxima = 33</p>
+      <p> minima = 16</p>
+    </div>
 </div>
 
 </di>
@@ -97,5 +106,9 @@
 }
 .formulario{
     display: flex;
+}
+
+.bb{
+  display: flex;
 }
   </style>

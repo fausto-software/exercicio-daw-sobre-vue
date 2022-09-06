@@ -13,24 +13,33 @@
   
     <img class="aa" alt="vue logo" src="./assets/a.webp"/>
   
-    <p> maxima = 33</p>
-    <p> minima = 16</p>
+    
+    <div class="bb">
+      <p> maxima = 33</p>
+      <p> minima = 16</p>
+    </div>
   </di>
   <di class="app1">
     <h1>Maputo</h1>
   
     <img class="aa" alt="vue logo" src="./assets/a.webp"/>
   
-    <p> maxima = 33</p>
-    <p> minima = 16</p>
+    
+    <div class="bb">
+      <p> maxima = 33</p>
+      <p> minima = 16</p>
+    </div>
   </di>
   <di class="app1">
     <h1>Maputo</h1>
   
     <img class="aa" alt="vue logo" src="./assets/a.webp"/>
   
-    <p> maxima = 33</p>
-    <p> minima = 16</p>
+   
+    <div class="bb">
+      <p> maxima = 33</p>
+      <p> minima = 16</p>
+    </div>
   </di>
 
 </div>
@@ -108,5 +117,9 @@
 
   .total{
     background-color: blueviolet;
+  }
+
+  .bb{
+    display: flex;
   }
     </style>

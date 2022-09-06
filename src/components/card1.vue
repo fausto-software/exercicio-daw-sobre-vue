@@ -12,8 +12,11 @@
     
       <img class="aa" alt="vue logo" src="./assets/a.webp"/>
     
+     
+      <div class="bb">
       <p> maxima = 33</p>
       <p> minima = 16</p>
+    </div>
     </di>
       </template>
   
@@ -85,5 +88,8 @@
     }
     .formulario{
         display: flex;
+    }
+    .bb{
+      display: flex;
     }
       </style>
