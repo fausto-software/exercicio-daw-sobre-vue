@@ -1,5 +1,5 @@
 <template>
-  <div class="total">
+  <!-- <div class="total">
   <div class="form">
     <form action="post" class="formulario">
       <div>
@@ -42,17 +42,24 @@
     </div>
   </di>
 
-</div>
+</div> -->
+<card/>
     </template>
 
 <script>
   //   import HelloWorld from './components/HelloWorld.vue'
+  // import card from './components/card.vue'
+// import Card from './components/card.vue';
+// import card1 from './components/card1.vue'
+import card from './components/card.vue';
     
     export default {
       name: 'App',
       components: {
-      //   HelloWorld
-      }
+    //   HelloWorld
+    // card,
+    card
+}
     }
     </script>
     

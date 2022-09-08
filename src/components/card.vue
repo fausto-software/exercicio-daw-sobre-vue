@@ -24,7 +24,7 @@
   <h1>Maputo</h1>
 
   <!-- <img class="aa" alt="Vue logo" src="./assets/a.webp"/> -->
-  <img class="aa" alt="vue logo" src="../assets/a.webp"/>
+  <img class="aa" alt="vue logo" src="../assets/images.png"/>
 
  
   <div class="bb">
@@ -36,7 +36,7 @@
 <div class="app2" >
   <h1>Maputo</h1>
 
-  <img class="aa" alt="vue logo" src="../assets/sss.jpg"/>
+  <img class="aa" alt="vue logo" src="../assets/logo.png"/>
 
  
   <div class="bb">
@@ -49,12 +49,12 @@
   </template>
   
   <script>
-    import card1 from './card1.vue'
+    // import card1 from './card1.vue'
   
   export default {
     name: 'App',
     components: {
-      card1
+      // card1
     }
   }
   </script>
